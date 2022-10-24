@@ -8,4 +8,4 @@ Este projeto tem como objetivo fazer a conversão de temperatura, celsius para f
 
   Porta exposta: 8080
   
-  Imagem do conteiner: alipioestima/temperature-conversion
+  Imagem do container: alipioestima/temperature-conversion
